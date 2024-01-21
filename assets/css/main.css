@@ -2593,6 +2593,7 @@ input, select, textarea {
 		justify-content: space-between;
 		background-color: #2F0F33;
 		background-attachment: scroll,								scroll;
+		background-image: url("images\Flores_pagina.jpg.jpg");
 		/*background-image: url("images/overlay.png"), url("../../images/bg.jpg");*/
 		background-position: top left,							top left;
 		background-repeat: repeat,								no-repeat;
@@ -2689,7 +2690,7 @@ input, select, textarea {
 	}
 
 		#main > section {
-			border-top: solid 2px #efefef;
+			border-top: solid 2px #BFACC2;
 			margin: 4em 0 0 0;
 			padding: 4em 0 0 0;
 		}
