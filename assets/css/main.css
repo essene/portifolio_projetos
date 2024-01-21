@@ -2591,7 +2591,7 @@ input, select, textarea {
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background-color: #8A638F;
+		background-color: #2F0F33;
 		background-attachment: scroll,								scroll;
 		/*background-image: url("images/overlay.png"), url("../../images/bg.jpg");*/
 		background-position: top left,							top left;
@@ -2650,7 +2650,7 @@ input, select, textarea {
 	}
 
 		#footer .icons a {
-			color: rgba(255, 255, 255, 0.4);
+			color: rgb(255, 255, 255);
 		}
 
 	#footer .copyright {
