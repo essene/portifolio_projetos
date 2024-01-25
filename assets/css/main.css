@@ -2593,12 +2593,12 @@ input, select, textarea {
 		justify-content: space-between;
 		background-color: #2F0F33;
 		background-attachment: scroll,								scroll;
-		background-image: url("images/overlay.png"), url("../../images/Flores_pagina.jpg");
+		background-image: url("../../images/Flores_pagina.jpg");
 		background-position: top left,							top left;
 		background-repeat: repeat,								no-repeat;
 		background-size: auto,								150%;
 		color: rgba(255, 255, 255, 0.5);
-		height: 100%;
+		height: auto;
 		left: 0;
 		padding: 8em 4em;
 		position: fixed;
