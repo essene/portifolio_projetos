@@ -114,10 +114,10 @@ input, select, textarea {
 		color: #49bf9d;
 		text-decoration: none;
 	}
-
+/*alterei esse hoover*/
 		a:hover {
 			border-bottom-color: transparent;
-			color: #49bf9d !important;
+			color: #BFACC2 !important;
 			text-decoration: none;
 		}
 
